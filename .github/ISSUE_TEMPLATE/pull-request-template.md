@@ -1,12 +1,3 @@
----
-name: pull request template
-about: pull request template 생성
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## 🛰️ Issue Number
 
 ## 🪐 작업 내용
